@@ -1,0 +1,6 @@
+[submodule "topsim"]
+	path = topsim
+	url = https://github.com/top-sim/topsim
+[submodule "topsim_pipelines"]
+	path = topsim_pipelines
+	url = https://github.com/top-sim/topsim_pipelines
