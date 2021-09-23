@@ -19,7 +19,9 @@ and configuration files for other problem areas like remote-sensing
 observations, IoT and Edge computing, and geoscience data ingest.  
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
 
    topsim/docs/source/index
    topsim_pipelines/docs/source/index
+
+   topsim/docs/source/reference/index
