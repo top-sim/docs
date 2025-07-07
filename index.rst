@@ -3,11 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-TOpSim Global Documentation
+TOpSim Documentation
 ================================================
 
-   
-TopSim is a generic simulation framework built to benchmark scheduling
+TopSim is a simulation framework built to benchmark scheduling
 approaches for the Square Kilometre Array Science Data Processor. TopSim is
 able to model any multi-instrument data-producing system that requires
 data-processing; the main TopSim documentation will introduce the key
@@ -21,7 +20,7 @@ observations, IoT and Edge computing, and geoscience data ingest.
 .. toctree::
    :maxdepth: 3
 
-   topsim/docs/source/index
    topsim_pipelines/docs/source/index
+   topsim/docs/source/index
 
    topsim/docs/source/reference/index
