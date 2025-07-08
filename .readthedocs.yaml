@@ -13,7 +13,7 @@ build:
       - git submodule update
 
 sphinx:
-   configuration: topsim/docs/source/conf.py
+   configuration: conf.py
 
 # Optionally build your docs in additional formats such as PDF
 formats:
